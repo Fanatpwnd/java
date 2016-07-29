@@ -1,0 +1,52 @@
+JSON file:
+{
+
+  "OBJ_LOC_NAME":"3163-ÐÑÑÐµÑÐ¾ÑÐºÐ°",
+  "OBJ_LOC_DT_BEGIN":"Fri Jul 29 2016 12:40:42 GMT+0300 (Russia TZ 2 Standard Time)",
+  "OBJ_LOC_DURATION":"[object Object]",
+  "_id":"-471352199",
+  "ID_TR":"3353007",
+  "TRNAME":"TATA 613EX Ð°258Ð¼Ð¼197",
+  "GOS_NUM":"A258MM197",
+  "UNIT_NUM":"355217040517584",
+  "UNIT_TYPE_NAME":"CS_Logistic_Lite",
+  "ID_UNIT_TYPE":"52337839003",
+  "SN":"454",
+  "EXT_ID":"858369793",
+  "CLIENT_NAME":"ÐÐ¸Ð°Ð»Ð°Ð²ÑÐ¾ÑÑÐ°Ð½Ñ",
+  "ID_DPNT_LVL_3":"59764626003",
+  "DPNT_LVL_3_S_NAME":"ÐÐ ÐÐ°Ð½Ð¸ÐµÐ²",
+  "DPNT_LVL_2_S_NAME":"ÐÐ ÐÐ°Ð½Ð¸ÐµÐ²",
+  "DPNT_LVL_1_S_NAME":"ÐÐ ÐÐ°Ð½Ð¸ÐµÐ²",
+  "SENSOR_TARGET4FILTER":"11,7",
+  "IS_IN_ODT_SHIFT":"1",
+  "IGNITION_N_NUM":"8",
+  "_loc":"[object Object]",
+  "_ignition":"[object Object]",
+  "_isSelected":"true"
+
+}
+MyClass:
+IGNITION_N_NUM = 8
+UNIT_TYPE_NAME = CS_Logistic_Lite
+CLIENT_NAME = ÐÐ¸Ð°Ð»Ð°Ð²ÑÐ¾ÑÑÐ°Ð½Ñ
+ID_TR = 3353007
+EXT_ID = 858369793
+ID_DPNT_LVL_3 = 59764626003
+SENSOR_TARGET4FILTER = 11,7
+IS_IN_ODT_SHIFT = 1
+DPNT_LVL_3_S_NAME = ÐÐ ÐÐ°Ð½Ð¸ÐµÐ²
+DPNT_LVL_2_S_NAME = ÐÐ ÐÐ°Ð½Ð¸ÐµÐ²
+UNIT_NUM = 355217040517584
+ID_UNIT_TYPE = 52337839003
+DPNT_LVL_1_S_NAME = ÐÐ ÐÐ°Ð½Ð¸ÐµÐ²
+_loc = [object Object]
+OBJ_LOC_NAME = 3163-ÐÑÑÐµÑÐ¾ÑÐºÐ°
+OBJ_LOC_DURATION = [object Object]
+GOS_NUM = A258MM197
+TRNAME = TATA 613EX Ð°258Ð¼Ð¼197
+OBJ_LOC_DT_BEGIN = Fri Jul 29 2016 12:40:42 GMT+0300 (Russia TZ 2 Standard Time)
+_ignition = [object Object]
+_id = -471352199
+SN = 454
+_isSelected = true

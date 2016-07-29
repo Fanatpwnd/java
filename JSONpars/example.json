@@ -1,0 +1,27 @@
+{
+
+  "OBJ_LOC_NAME":"3163-Пятерочка",
+  "OBJ_LOC_DT_BEGIN":"Fri Jul 29 2016 12:40:42 GMT+0300 (Russia TZ 2 Standard Time)",
+  "OBJ_LOC_DURATION":"[object Object]",
+  "_id":"-471352199",
+  "ID_TR":"3353007",
+  "TRNAME":"TATA 613EX а258мм197",
+  "GOS_NUM":"A258MM197",
+  "UNIT_NUM":"355217040517584",
+  "UNIT_TYPE_NAME":"CS_Logistic_Lite",
+  "ID_UNIT_TYPE":"52337839003",
+  "SN":"454",
+  "EXT_ID":"858369793",
+  "CLIENT_NAME":"Диалавтотранс",
+  "ID_DPNT_LVL_3":"59764626003",
+  "DPNT_LVL_3_S_NAME":"ИП Ганиев",
+  "DPNT_LVL_2_S_NAME":"ИП Ганиев",
+  "DPNT_LVL_1_S_NAME":"ИП Ганиев",
+  "SENSOR_TARGET4FILTER":"11,7",
+  "IS_IN_ODT_SHIFT":"1",
+  "IGNITION_N_NUM":"8",
+  "_loc":"[object Object]",
+  "_ignition":"[object Object]",
+  "_isSelected":"true"
+
+}
